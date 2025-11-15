@@ -11,24 +11,14 @@
 
 ---
 
-## 🌈 Sobre mí
-- 🧠 Full Stack Developer  
-- ⚛️ Amante de React, Next.js y UIs limpias  
-- 🧰 Construyo apps funcionales, bonitas y rápidas  
-- 🔊 También hago sistemas con ESP32 + Python + Bluetooth  
-- 🎢 Vivo entre código, café y hiperfocos  
-- 🌌 Buscando crear cosas que se sientan vivas
-
----
-
-## 🌀 Tech Stack (cosmic vibes)
+## 🌀 Tech Stack 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,nodejs,express,vite,postgres,mysql,python,git,github,figma&theme=light" />
 </p>
 
 ---
 
-## 🛸 Mis Stats (flameantes)
+## 🛸 Mis Stats 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=stivenkno&show_icons=true&theme=radical&hide_border=true" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=stivenkno&theme=radical&hide_border=true" />
@@ -47,24 +37,6 @@
 
 ---
 
-## 🧪 Últimos proyectos (dimensiones en construcción)
-
-- 🚀 **Kanban App con Drag & Drop** — React, Tailwind, PostgreSQL  
-- 🎤 **Control por Voz con Python + ESP32**  
-- 🎬 **Cinema App con Axios y API de películas**  
-- 🔐 **Sistema de Login + Roles (React + Context/API)**  
-- 📚 **Proyectos universitarios de electrónica digital**
-
----
-
-## 🔮 Cosas que me encantan
-- Crear UI minimalistas pero con personalidad 🎨  
-- Estructurar código limpio y escalable 📦  
-- Integrar hardware + software (ESP32 lover) 🦾  
-- Experimentar con animaciones y microinteracciones ✨  
-- Aprender todos los días sin perder el flow 🚀
-
----
 
 ## 🌌 Contacto
 <p align="center">
