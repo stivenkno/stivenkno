@@ -1,3 +1,8 @@
+<!-- Banner psicodélico estilo Midnight Gospel -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="Snake animation" />
+</p>
+
 <h1 align="center">👽✨ Hey, soy Stiven — Full Stack Developer ✨🚀</h1>
 
 <p align="center">
@@ -16,14 +21,14 @@
 
 ---
 
-## 🌀 Tech Stack (al estilo cosmic vibes)
+## 🌀 Tech Stack (cosmic vibes)
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,nodejs,express,vite,postgres,mysql,python,git,github,figma&theme=light" />
 </p>
 
 ---
 
-## 🛸 Mis Stats (para que se vea flama)
+## 🛸 Mis Stats (flameantes)
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=stivenkno&show_icons=true&theme=radical&hide_border=true" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=stivenkno&theme=radical&hide_border=true" />
@@ -35,9 +40,9 @@
 
 ---
 
-## 🎨 Ilustración estilo Midnight Gospel (tu avatar cósmico)
+## 🧍‍♂️ Avatar Cosmic Style
 <p align="center">
-  <img src="https://i.imgur.com/ci4lF3G.gif" width="250" alt="Cosmic avatar">
+  <img src="https://raw.githubusercontent.com/itsmichaelbrooks/midnight-gospel-gif/main/clancy-floating.gif" width="230" alt="Midnight Gospel style avatar" />
 </p>
 
 ---
@@ -66,7 +71,7 @@
   <a href="mailto:stiven@example.com">
     <img src="https://img.shields.io/badge/Email-%23FF00FF?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com">
+  <a href="#">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
@@ -78,5 +83,5 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/2s8PzA1.gif" width="350">
+  <img src="https://raw.githubusercontent.com/Giphy/GiphyAPI/master/GiphyAPI.gif" width="300">
 </p>
