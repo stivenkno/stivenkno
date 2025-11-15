@@ -1,8 +1,3 @@
-<!-- Banner psicodélico estilo The Midnight Gospel -->
-<p align="center">
-  <img src="https://i.imgur.com/M7V9z8F.gif" width="600" alt="Midnight Gospel banner">
-</p>
-
 <h1 align="center">👽✨ Hey, soy Stiven — Full Stack Developer ✨🚀</h1>
 
 <p align="center">
