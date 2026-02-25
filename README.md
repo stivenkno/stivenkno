@@ -6,9 +6,7 @@
 
 <!-- Personajes a los lados (opcional) -->
 <p align="center">
-  <img src="TU_PERSONAJE_IZQ_URL" width="120" alt="character left" />
   <img src="https://img.shields.io/badge/Full--Stack-Developer-111111?style=for-the-badge" alt="role" />
-  <img src="TU_PERSONAJE_DER_URL" width="120" alt="character right" />
 </p>
 
 <h1 align="center">Stiven Kno</h1>
