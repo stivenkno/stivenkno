@@ -36,5 +36,5 @@
 
 <!-- Footer aesthetic -->
 <p align="center">
-  <img src="TU_FOOTER_URL" width="100%" alt="footer" />
+  <img src="footer.png" width="100%" alt="footer" />
 </p>
