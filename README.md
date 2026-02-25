@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <a href="linkedin/stivenkno">
+  <a href="https://www.linkedin.com/in/stiven-kno/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:stivencano931@gmail.com">
