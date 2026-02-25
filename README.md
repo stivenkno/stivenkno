@@ -19,6 +19,6 @@
 <!-- ===== HERO / BACKGROUND (banner) ===== -->
 <p align="center">
   <!-- TIP: sube un banner a tu repo (assets/banner.png) y usa ese link -->
-  <img src="chill.png" alt="banner" width="100%" />
+  <img src="chilling.png" alt="banner" width="100%" />
 </p>
 
