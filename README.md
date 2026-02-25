@@ -16,20 +16,6 @@
   </a>
 </p>
 
-<!-- Separador aesthetic (puede ser una imagen wave) -->
-<p align="center">
-  <img src="TU_WAVE_SEPARATOR_URL" width="100%" alt="separator" />
-</p>
-
-<!-- ===== HIGHLIGHTS (casi sin texto) ===== -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Mobile-React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Backend-Node%20%2B%20Express-20232A?style=flat-square&logo=node.js&logoColor=339933" />
-  <img src="https://img.shields.io/badge/DB-Postgres%20%2F%20MySQL-20232A?style=flat-square&logo=postgresql&logoColor=4169E1" />
-  <img src="https://img.shields.io/badge/DevOps-Docker-20232A?style=flat-square&logo=docker&logoColor=2496ED" />
-  <img src="https://img.shields.io/badge/IoT-ESP32%20%2F%20Arduino-20232A?style=flat-square&logo=arduino&logoColor=00979D" />
-</p>
-
 <!-- ===== ICON WALL (lo que más resalta) ===== -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,vite,nodejs,express,postgres,mysql,prisma,docker,git,github,figma,php,python,bash,vscode,arduino&theme=dark&perline=10" />
