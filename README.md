@@ -4,13 +4,6 @@
   <img src="bannernew.png" alt="banner" width="100%" />
 </p>
 
-<!-- Personajes a los lados (opcional) -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Full--Stack-Developer-111111?style=for-the-badge" alt="role" />
-</p>
-
-<h1 align="center">Stiven Kno</h1>
-
 <p align="center">
   <a href="TU_LINK_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
