@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="TU_LINK_LINKEDIN">
+  <a href="linkedin/stivenkno">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:TU_EMAIL">
+  <a href="mailto:stivencano931@gmail.com">
     <img src="https://img.shields.io/badge/Email-TU_EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="TU_LINK_PORTAFOLIO">
