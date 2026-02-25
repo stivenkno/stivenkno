@@ -1,8 +1,4 @@
-<!-- ===== HERO / BACKGROUND (banner) ===== -->
-<p align="center">
-  <!-- TIP: sube un banner a tu repo (assets/banner.png) y usa ese link -->
-  <img src="chill.png" alt="banner" width="100%" />
-</p>
+
 
 <p align="center">
   <a href="linkedin/stivenkno">
@@ -19,5 +15,10 @@
 <!-- ===== ICON WALL (lo que más resalta) ===== -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,vite,nodejs,express,postgres,mysql,prisma,docker,git,github,figma,php,python,bash,vscode,arduino&theme=dark&perline=10" />
+</p>
+<!-- ===== HERO / BACKGROUND (banner) ===== -->
+<p align="center">
+  <!-- TIP: sube un banner a tu repo (assets/banner.png) y usa ese link -->
+  <img src="chill.png" alt="banner" width="100%" />
 </p>
 
