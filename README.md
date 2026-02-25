@@ -21,20 +21,3 @@
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,vite,nodejs,express,postgres,mysql,prisma,docker,git,github,figma,php,python,bash,vscode,arduino&theme=dark&perline=10" />
 </p>
 
-<!-- ===== MINI PORTFOLIO (solo tarjetas con imagen) ===== -->
-<p align="center">
-  <a href="https://github.com/TU_USUARIO/TU_REPO_1">
-    <img src="TU_CARD_1_URL" width="32%" alt="project 1" />
-  </a>
-  <a href="https://github.com/TU_USUARIO/TU_REPO_2">
-    <img src="TU_CARD_2_URL" width="32%" alt="project 2" />
-  </a>
-  <a href="https://github.com/TU_USUARIO/TU_REPO_3">
-    <img src="TU_CARD_3_URL" width="32%" alt="project 3" />
-  </a>
-</p>
-
-<!-- Footer aesthetic -->
-<p align="center">
-  <img src="footer.png" width="100%" alt="footer" />
-</p>
