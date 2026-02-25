@@ -12,10 +12,10 @@
   </a>
 </p>
 
-<!-- ===== ICON WALL (lo que más resalta) ===== -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,vite,nodejs,express,postgres,mysql,prisma,docker,git,github,figma,php,python,bash,vscode,arduino&theme=dark&perline=10" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,vite,nodejs,express,nest,postgres,mysql,prisma,docker,git,github,figma,php,python,bash,vscode,arduino&theme=dark&perline=10" />
 </p>
+
 <!-- ===== HERO / BACKGROUND (banner) ===== -->
 <p align="bottom">
   <!-- TIP: sube un banner a tu repo (assets/banner.png) y usa ese link -->
