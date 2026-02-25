@@ -19,6 +19,6 @@
 <!-- ===== HERO / BACKGROUND (banner) ===== -->
 <p align="bottom">
   <!-- TIP: sube un banner a tu repo (assets/banner.png) y usa ese link -->
-  <img src="rechiljairo.png" alt="banner" width="100%"/>
+  <img src="rechiljairo2.png" alt="banner" width="100%"/>
 </p>
 
